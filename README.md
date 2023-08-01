@@ -52,14 +52,14 @@ Contrinue running the algorithms as mentioned in the following:
 
 For running PPO+HCM use python3.6 and tensorflow 1.4
 ```
-python CL2FC_run.py PPO
-python CL2FC_run.py PPO_ICM
-python CL2FC_run.py PPO_HCM
+python CDRL_L2FC_run.py PPO
+python CDRL_L2FC_run.py PPO_ICM
+python CDRL_L2FC_run.py PPO_HCM
 ```
 
 For running SAC use python 3.8 and tensorflow 2.4 and pytorch 1.12
 ```
-python3.8 CL2FC_run_SAC_sb3.py
+python3.8 CDRL_L2FC_run_SAC_sb3.py
 ```
 
 # Parameters
